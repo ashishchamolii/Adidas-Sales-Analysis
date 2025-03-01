@@ -59,7 +59,7 @@ Overall, the Excel analysis and visualization process facilitated a thorough exa
 
 
 ## Dataset used.
- - <a href="https://github.com/ashishchamolii/Vrinda-Store-Sales-Analysis/blob/main/vrinda%20sales%20data.xlsx">Dataset</a>
+ - <a href="https://github.com/ashishchamolii/Adidas-Sales-Analysis/blob/main/ADIDAS%20SALES%20NEW.xlsx">Dataset</a>
 
 
 ## Questions (KPIs)
