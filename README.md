@@ -69,7 +69,7 @@ Overall, the Excel analysis and visualization process facilitated a thorough exa
 - Compare the total number of sales per region wise of united states?
 - Compare the total number of sales per city wise of united states?
 - Compare the total number of sales per month wise of both 2021 and 2021?
-- Dashboard Interaction <a href= "https://github.com/ashishchamolii/Adidas-Sales-Analysis/blob/main/Sales%20Dashboard.png">View Dashboard</a>
+
 
 ## Process
 
@@ -80,7 +80,7 @@ Overall, the Excel analysis and visualization process facilitated a thorough exa
 
   ## Dashboard
 
-![Screenshot (2)](https://github.com/ashishchamolii/Adidas-Sales-Analysis/blob/main/Sales%20Dashboard.pn)
+- Dashboard Interaction <a href= "https://github.com/ashishchamolii/Adidas-Sales-Analysis/blob/main/Sales%20Dashboard.png">View Dashboard</a>
 
 
 
