@@ -64,15 +64,12 @@ Overall, the Excel analysis and visualization process facilitated a thorough exa
 
 ## Questions (KPIs)
 
-- Compare the sales and orders using single chart.
-- Which month got the highest sales and orders?
-- Who purchased more - Men or Women?
-- What are different order status in 2022?
-- List top 5 states contributingto the sales?
-- Relation between age and gender based on number of orders.
-- Which Channel is contributing maximum to the sales?
-- Highest selling category?
-- Dashboard Interaction <a href= "https://github.com/ashishchamolii/Vrinda-Store-Sales-Analysis/blob/main/Screenshot%20(2).png">View Dashboard</a>
+- Compare the total number of sales and total number of profit per retailer wise?
+- Which years got the highest sales and orders
+- Compare the total number of sales per region wise of united states?
+- Compare the total number of sales per city wise of united states?
+- Compare the total number of sales per month wise of both 2021 and 2021?
+- Dashboard Interaction <a href= "https://github.com/ashishchamolii/Adidas-Sales-Analysis/blob/main/Sales%20Dashboard.png">View Dashboard</a>
 
 ## Process
 
@@ -83,18 +80,15 @@ Overall, the Excel analysis and visualization process facilitated a thorough exa
 
   ## Dashboard
 
-![Screenshot (2)](https://github.com/user-attachments/assets/fff83917-a520-43e8-8da3-f18d1be72c5e)
+![Screenshot (2)](https://github.com/ashishchamolii/Adidas-Sales-Analysis/blob/main/Sales%20Dashboard.pn)
 
 
 
   ## Project Insight
-- Women customers are more likely to buy products compared to men (~65%).
-- The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
-- The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
-- The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
-- More than 90% of the products delivered
+- West Gear Retailer have the highest number of sales and profit in both 2020 and 2021.
+- West Gear Retailer have the total number of profit of around $35M in 2020 and $70M in 2021.
+- In year 2021, there has been a massive number of sales and profit of adidas throughout the united states.
+- The West Region of united states have been seen a massive number of sales and profits of around 30%.
+- People who purchased adidas things have highest number of profit in offline mode by visiting their stores of over $50M in both 2020 and 2021.
 
 
-  ## Final Conclusion
-
-To improve the sales of Vrinda Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
