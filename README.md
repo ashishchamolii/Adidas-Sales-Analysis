@@ -28,10 +28,6 @@ The analysis was conducted using Excel, following a series of steps outlined bel
 Overall, the Excel analysis and visualization process facilitated a thorough examination of the data, enabling the extraction of valuable insights and presenting them in an interactive and visually appealing manner.
 
 
-## Dataset used.
- - <a href="https://github.com/ashishchamolii/Adidas-Sales-Analysis/blob/main/ADIDAS%20SALES%20NEW.xlsx">Dataset</a>
-
-
 ## Questions (KPIs)
 
 - Compare the total number of sales and total number of profit per retailer wise?
@@ -48,10 +44,7 @@ Overall, the Excel analysis and visualization process facilitated a thorough exa
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dashbboard.
 
-  ## Dashboard
-
-- Dashboard Interaction <a href= "https://github.com/ashishchamolii/Adidas-Sales-Analysis/blob/main/Sales%20Dashboard.png">View Dashboard</a>
-
+ 
 
 
   ## Project Insight
